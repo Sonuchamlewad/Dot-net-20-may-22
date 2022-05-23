@@ -30,22 +30,4 @@ namespace ConsoleApp1
             }
             }
 
-            Console.Write("enter some values: ");
-            int choice = 1;
-            switch (choice)
-            {
-                case 1:
-                    Console.WriteLine("monday");
-                    break;
-                default:
-                    Console.WriteLine("default case");
-                    break;
-
-
-                        }
-                    }
-
-                }
-            }*/
-
-            
+ 
